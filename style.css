@@ -713,7 +713,7 @@ button.contact-btn{
 	transition: 0.4s;
 }
 .column-2 .form-2 .form-button:hover{
-	background-color: var(----bg-clr-two);
+background-color: var(--bg-clr-two);
 	color: var(--bg-clr-one);
 	border: 1px solid var(--bg-clr-one);
 	
